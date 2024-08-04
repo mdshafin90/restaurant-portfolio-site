@@ -1,15 +1,15 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 
-const Home = () => {
+const SignIn = () => {
     return (
         <div className='mt-24'>
             <Helmet>
-               <title>Tasteful Table | Home</title>
+               <title>Tasteful Table | Sign In</title>
             </Helmet>
-            <h1>This is From Home</h1>
+            <h1>This is Sign In Page</h1>
         </div>
     );
 };
 
-export default Home;
+export default SignIn;
