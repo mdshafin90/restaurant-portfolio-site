@@ -62,7 +62,7 @@ const Desserts = () => {
         <div className='flex justify-center'>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 my-8 md:my-12">
             {/* First Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={chocolateLava} alt="Starter 1" />
                 </figure>
@@ -87,7 +87,7 @@ const Desserts = () => {
             </div>
 
             {/* Second Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={applePie} alt="Starter 2" />
                 </figure>
@@ -112,7 +112,7 @@ const Desserts = () => {
             </div>
 
             {/* Third Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={tiramisu} alt="Starter 3" />
                 </figure>
@@ -137,7 +137,7 @@ const Desserts = () => {
             </div>
 
             {/* Fourth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={carrotCake} alt="Starter 4" />
                 </figure>
@@ -162,7 +162,7 @@ const Desserts = () => {
             </div>
 
             {/* Fifth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={pannaCotta} alt="Starter 5" />
                 </figure>
@@ -187,7 +187,7 @@ const Desserts = () => {
             </div>
 
             {/* Sixth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={chocolateMousse} alt="Starter 6" />
                 </figure>
@@ -212,7 +212,7 @@ const Desserts = () => {
             </div>
 
             {/* Seventh Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={baklava} alt="Starter 7" />
                 </figure>
@@ -237,7 +237,7 @@ const Desserts = () => {
             </div>
 
             {/* Eight Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={cremeBrulee} alt="Starter 8" />
                 </figure>
@@ -262,7 +262,7 @@ const Desserts = () => {
             </div>
 
             {/* Ninth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={newYork} alt="Starter 9" />
                 </figure>

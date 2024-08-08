@@ -62,7 +62,7 @@ const Starters = () => {
         <div className='flex justify-center'>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 my-8 md:my-12">
             {/* First Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img1} alt="Starter 1" />
                 </figure>
@@ -87,7 +87,7 @@ const Starters = () => {
             </div>
 
             {/* Second Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img2} alt="Starter 2" />
                 </figure>
@@ -112,7 +112,7 @@ const Starters = () => {
             </div>
 
             {/* Third Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img3} alt="Starter 3" />
                 </figure>
@@ -137,7 +137,7 @@ const Starters = () => {
             </div>
 
             {/* Fourth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img4} alt="Starter 4" />
                 </figure>
@@ -162,7 +162,7 @@ const Starters = () => {
             </div>
 
             {/* Fifth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img5} alt="Starter 5" />
                 </figure>
@@ -187,7 +187,7 @@ const Starters = () => {
             </div>
 
             {/* Sixth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img6} alt="Starter 6" />
                 </figure>
@@ -212,7 +212,7 @@ const Starters = () => {
             </div>
 
             {/* Seventh Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img7} alt="Starter 7" />
                 </figure>
@@ -237,7 +237,7 @@ const Starters = () => {
             </div>
 
             {/* Eight Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img8} alt="Starter 8" />
                 </figure>
@@ -262,7 +262,7 @@ const Starters = () => {
             </div>
 
             {/* Ninth Card */}
-            <div className="card card-compact bg-base-100 w-80 shadow-2xl">
+            <div className="card card-compact bg-base-100 w-80 shadow-2xl hover:scale-105 duration-500 hover:shadow-indigo-400 hover:bg-slate-900 hover:text-white">
                 <figure>
                     <img className="w-full h-[280px]" src={img9} alt="Starter 9" />
                 </figure>
