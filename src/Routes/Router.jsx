@@ -50,7 +50,27 @@ export const Router = createBrowserRouter ([
             {
                 path: '/signIn',
                 element: < SignIn/>
-            }
+            },
+            // {
+            //     path: '/starters',
+            //     element: <Starters/>
+            // },
+            // {
+            //     path: '/beverages',
+            //     element: <Beverages/>
+            // },
+            // {
+            //     path: '/mainCourse',
+            //     element: <MainCourse/>
+            // },
+            // {
+            //     path: 'salads',
+            //     element: <Salads/>
+            // },
+            // {
+            //     path: '/desserts',
+            //     element: <Desserts/>
+            // }
         ]
     }
 ])
